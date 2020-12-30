@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757461878334",
+    "project_id": "lawnics-assignment",
+    "storage_bucket": "lawnics-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757461878334:android:7849f910604d814aa3736f",
+        "android_client_info": {
+          "package_name": "in.thelosergeek.lawnicsassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757461878334-n6ordbo3a0js136d50dhg8r212eusnp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRO4xhgwMXxnuhLqq0u2EnlK4Yh9GZg-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757461878334-n6ordbo3a0js136d50dhg8r212eusnp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
